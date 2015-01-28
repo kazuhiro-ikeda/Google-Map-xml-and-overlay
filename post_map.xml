@@ -1,0 +1,5 @@
+﻿<markers>
+<marker name="千葉西クリニック" lat="35.719642" lng="140.043948" icongraph="http://maps.google.co.jp/mapfiles/ms/icons/yellow.png" iconcolor="#FCF357" poststr1="〒274-0063" poststr2="船橋市習志野台3-17-17" poststr3="三番館ビル３F" telstr="047-456-6110" corpstr="/clinic/keisei-01/"/>
+<marker name="西都賀クリニック" lat="35.63444" lng="140.146561" icongraph="http://maps.google.co.jp/mapfiles/ms/icons/yellow.png" iconcolor="#FCF357" poststr1="〒264-0026" poststr2="千葉県千葉市若葉区西都賀1-2-4" poststr3="アイチ都賀Ⅲ 301号" telstr="043-206-7331" corpstr="/clinic/keisei-02/"/>
+<marker name="千葉シーサイドクリニック" lat="35.605022" lng="140.103591" icongraph="http://maps.google.co.jp/mapfiles/ms/icons/yellow.png" iconcolor="#FCF357" poststr1="〒260-0024" poststr2="千葉県千葉市中央区中央港1-15-8" poststr3="1F" telstr="043-216-2315" corpstr="/clinic/keisei-03/"/>
+</markers>
